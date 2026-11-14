@@ -2,7 +2,7 @@
 
 * **Materia:** Mantenimiento de Software
 * **Estudiante:** Samuel Francisco Guaimas
-* **Curso:** 6.º año – Técnico Informático – E.E.T. N.º 3139
+* **Curso:** 4.º 3.ª – Técnico Informático – E.E.T. N.º 3139
 * **Fecha de Entrega:** Noviembre 2026
 * **Profesor:** Artaza
 
